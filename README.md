@@ -1,4 +1,7 @@
 # Hack The Hills
+# Important Instruction:
+To run/Compile the code both Code.cpp and flashcard.txt files should be in the storage location.
+Must install all the libraries that are included in the code and C++ extensions.
 📚 C++ Flashcard Generator
 
 🚀 Problem Statement
